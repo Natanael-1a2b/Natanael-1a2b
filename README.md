@@ -36,7 +36,6 @@
 
 </div>
 
-<br>
 <h3 align="center">Inteligencia Artificial</h3>
 <div align="center">
   <table>
@@ -81,4 +80,3 @@
   <img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages Repo" width="49%" />
   <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages Commit" width="49%" />
 </p>
-
