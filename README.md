@@ -55,5 +55,5 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvs/?username=Natanael-1a2b&color=A855F7&style=for-the-badge&label=VISITAS+AL+PERFIL" />
+  <img src="https://komarev.com/ghpvc/?username=Natanael-1a2b&color=A855F7&style=for-the-badge&label=VISITAS+AL+PERFIL" />
 </p>
