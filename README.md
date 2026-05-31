@@ -6,65 +6,53 @@
 
 ### 🔗 **Conéctate conmigo**  
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Natanael-1a2b)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudio-natanael-beltre-rosario-38a580327/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://natanael-1a2b.github.io/Mi-Portafolio/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:natanaelbeltre03@gmail.com)
+<p align="center">
+  <a href="https://github.com/Natanael-1a2b" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/claudio-natanael-beltre-rosario-38a580327/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://natanael-1a2b.github.io/Mi-Portafolio/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" width="48" height="48" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:natanaelbeltre03@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
+</p>
 
 ---
 
 <h2>🚀 Stack que domino <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
-#### **Backend**
+<div align="center">
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,python,supabase&perline=12" />
-  </a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="48" height="48" alt="SQL Server" />
-</p>
+| ⚙️ **Backend** | 🎨 **Frontend** | 🛠️ **Herramientas** |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=cs,dotnet,python&perline=3" /><br><img src="https://skillicons.dev/icons?i=supabase" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server" title="SQL Server" /> | <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react&perline=3" /> | <img src="https://skillicons.dev/icons?i=git,github,visualstudio&perline=3" /><br><img src="https://skillicons.dev/icons?i=vscode,vercel" /> <a href="https://antigravity.google/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="48" height="48" alt="Antigravity" title="Antigravity" /></a> |
 
-#### **Frontend**
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react&perline=12" />
-  </a>
-</p>
-
-#### **Herramientas**
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,vercel&perline=12" />
-  </a>
-  <a href="https://antigravity.google/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="48" height="48" alt="Antigravity" />
-  </a>
-</p>
+</div>
 
 ---
 
 ## ⚙️ GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Natanael-1a2b&show_icons=true&bg_color=0D1117&title_color=A855F7&text_color=E2E8F0&icon_color=38BDF8&border_color=1E293B&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natanael-1a2b&layout=donut&langs_count=8&bg_color=0D1117&title_color=A855F7&text_color=E2E8F0&border_color=1E293B"/>
+  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" width="100%" />
 </p>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Natanael-1a2b&background=0D1117&border=1E293B&stroke=A855F7&ring=A855F7&fire=38BDF8&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=A855F7&sideLabels=38BDF8&dates=8B949E" alt="GitHub Streak"/>
+  <img src="profile-summary-card-output/tokyonight/1-github-stats.svg" alt="Stats" width="49%" />
+  <img src="profile-summary-card-output/tokyonight/2-commits-per-day.svg" alt="Commits" width="49%" />
 </p>
-
----
-
-## 🏆 Trofeos
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Natanael-1a2b&theme=discord&no-frame=true&column=7" />
+  <img src="profile-summary-card-output/tokyonight/3-stats-by-repository.svg" alt="Top Languages Repo" width="49%" />
+  <img src="profile-summary-card-output/tokyonight/4-stats-by-theme.svg" alt="Top Languages Commit" width="49%" />
 </p>
 
----
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvs/?username=Natanael-1a2b&color=A855F7&style=for-the-badge&label=VISITAS+AL+PERFIL" />
