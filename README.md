@@ -70,13 +70,13 @@
 ## ⚙️ GitHub Analytics
 
 <p align="center">
-  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" width="100%" />
+  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
 </p>
 <p align="center">
-  <img src="profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" width="49%" />
-  <img src="profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Commits" width="49%" />
+  <img src="profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
+  <img src="https://streak-stats.demolab.com?user=Natanael-1a2b&theme=tokyonight&locale=es" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages Repo" width="49%" />
-  <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages Commit" width="49%" />
+  <img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages Repo" />
+  <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages Commit" />
 </p>
