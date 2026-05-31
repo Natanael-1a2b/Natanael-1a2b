@@ -4,7 +4,7 @@
 
 ---
 
-### 🔗 **Conéctate conmigo**  
+### **Contacto**  
 
 <p align="center">
   <a href="https://github.com/Natanael-1a2b" target="_blank">
@@ -16,7 +16,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://natanael-1a2b.github.io/Mi-Portafolio/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" width="48" height="48" alt="Portfolio" />
+    <img src="https://skillicons.dev/icons?i=devto" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:natanaelbeltre03@gmail.com" target="_blank">
@@ -26,14 +26,44 @@
 
 ---
 
-<h2>🚀 Stack que domino <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+<h2>Stack Tecnológico <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
 <div align="center">
 
-| ⚙️ **Backend** | 🎨 **Frontend** | 🛠️ **Herramientas** |
+| **Backend** | **Frontend** | **Herramientas** |
 | :---: | :---: | :---: |
 | <img src="https://skillicons.dev/icons?i=cs,dotnet,python&perline=3" /><br><img src="https://skillicons.dev/icons?i=supabase" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server" title="SQL Server" /> | <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react&perline=3" /> | <img src="https://skillicons.dev/icons?i=git,github,visualstudio&perline=3" /><br><img src="https://skillicons.dev/icons?i=vscode,vercel" /> <a href="https://antigravity.google/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="48" height="48" alt="Antigravity" title="Antigravity" /></a> |
 
+</div>
+
+<br>
+<h3 align="center">Inteligencia Artificial</h3>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="140">
+        <br>
+        <img src="https://api.iconify.design/fluent:bot-24-filled.svg?color=%23A855F7" width="48" height="48" alt="Agents" />
+        <br><br>
+        <b>Agents</b>
+        <br>
+      </td>
+      <td align="center" width="140">
+        <br>
+        <img src="https://api.iconify.design/mdi:lightning-bolt.svg?color=%23F59E0B" width="48" height="48" alt="AI Skills" />
+        <br><br>
+        <b>AI Skills</b>
+        <br>
+      </td>
+      <td align="center" width="140">
+        <br>
+        <img src="https://api.iconify.design/mdi:sitemap.svg?color=%2310B981" width="48" height="48" alt="MCP" />
+        <br><br>
+        <b>MCP</b>
+        <br>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -52,8 +82,3 @@
   <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages Commit" width="49%" />
 </p>
 
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Natanael-1a2b&color=A855F7&style=for-the-badge&label=VISITAS+AL+PERFIL" />
-</p>
