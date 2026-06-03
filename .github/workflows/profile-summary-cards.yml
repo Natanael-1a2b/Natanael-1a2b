@@ -12,9 +12,13 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_CARDS_TOKEN }}
         with:
-          USERNAME: ${{ github.repository_owner }}
+          USERNAME: Natanael-1a2b
+          BRANCH_NAME: main
+          UTC_OFFSET: -4
+          EXCLUDE: ""
+          AUTO_PUSH: true
