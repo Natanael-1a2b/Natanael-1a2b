@@ -47,20 +47,16 @@
       <img src="https://img.shields.io/badge/IBCJ_Web_System-En_Producción-10B981?style=for-the-badge&logo=react&logoColor=white" alt="IBCJ Web System" />
     </a>
     &nbsp;
-    <a href="https://github.com/Claudiobeltre/keeppdf" target="_blank">
-      <img src="https://img.shields.io/badge/KeepPDF-Multiplataforma-6366F1?style=for-the-badge&logo=python&logoColor=white" alt="KeepPDF" />
-    </a>
-    &nbsp;
     <a href="https://github.com/Claudiobeltre/NetBank" target="_blank">
       <img src="https://img.shields.io/badge/NetBank-C%23_.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="NetBank" />
     </a>
     <br /><br />
-    <a href="https://github.com/Claudiobeltre/Monitoreo-Impresoras" target="_blank">
-      <img src="https://img.shields.io/badge/Monitoreo_SNMP-Infraestructura-F59E0B?style=for-the-badge&logo=server&logoColor=white" alt="Monitoreo SNMP" />
+    <a href="https://github.com/Claudiobeltre/Gestor-de-Tareas" target="_blank">
+      <img src="https://img.shields.io/badge/Gestor_de_Tareas-React_&_TS-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="Gestor de Tareas" />
     </a>
     &nbsp;
-    <a href="https://github.com/Claudiobeltre/Subtitulos-con-IA" target="_blank">
-      <img src="https://img.shields.io/badge/Subtítulos_con_IA-Python-EC4899?style=for-the-badge&logo=openai&logoColor=white" alt="Subtítulos IA" />
+    <a href="https://github.com/Claudiobeltre/cine_match" target="_blank">
+      <img src="https://img.shields.io/badge/CineMatch-React_App-E50914?style=for-the-badge&logo=themoviedatabase&logoColor=white" alt="CineMatch" />
     </a>
   </p>
 
