@@ -1,0 +1,7 @@
+# Agent Skills
+.agents/
+skills-lock.json
+
+# OS & Temp files
+Thumbs.db
+.DS_Store
